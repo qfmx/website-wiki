@@ -4,14 +4,14 @@ const dayjs = require("dayjs");
 
 module.exports = {
   base: "/",
-  title: 'Java essay',
+  title: '文字狂想',
   // theme: require.resolve('../../theme/vdoing'),
   theme: 'vdoing',
   description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: "Java essay",
+      title: "文字狂想",
       description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
     }
   },
@@ -32,13 +32,13 @@ module.exports = {
     // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | <自定义>    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
     sidebar: 'structuring', 
     author: {
-      name: 'Mr.Fire', // 必需
-      link: 'https://github.com/FireHH', // 可选的
+      name: 'Xc.Jun', // 必需
+      link: 'https://github.com/qfmx', // 可选的
     },
     // 博主信息 (显示在首页侧边栏)
     blogger: {
       avatar: '/img/huge.jpg',
-      name: 'Mr.Fire',
+      name: 'Xc.Jun',
       slogan: '后端程序员一枚',
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
@@ -56,17 +56,17 @@ module.exports = {
         {
           iconClass: 'icon-youjian',
           title: '发邮件',
-          link: 'mailto:firelumf@qq.com',
+          link: 'mailto:xichujun@qq.com',
         },
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/FireHH/',
+          link: 'https://github.com/qfmx/',
         },
         {
           iconClass: 'icon-gitee',
           title: 'Gitee',
-          link: 'https://gitee.com/firegitspace/',
+          link: 'https://gitee.com/qfmx/',
         },
         {
           iconClass: 'icon-erji',
@@ -78,16 +78,16 @@ module.exports = {
 
     // 页脚信息
     footer: {
-      createYear: 2021, // 博客创建年份
+      createYear: 2023, // 博客创建年份
       copyrightInfo:
-          'Mr.Fire | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
+          'Xc.Jun | <a href="https://blog.ifnb.cn" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
     },
 
     // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
     extendFrontmatter: {
       author: {
-        name: 'Mr.Fire',
-        link: 'https://gitee.com/firegitspace/'
+        name: 'Xc.Jun',
+        link: 'https://gitee.com/qfmx/'
       }
     },
 
@@ -101,7 +101,7 @@ module.exports = {
       'meta',
       {
         name: 'keywords',
-        content: 'Java essay',
+        content: '文字狂想',
       },
     ],
     ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证（你可以去掉）

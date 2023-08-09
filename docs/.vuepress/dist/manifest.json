@@ -1,10 +1,10 @@
 {
-  "name": "Java-essay",
-  "short_name": "Java-essay",
+  "name": "文字狂想",
+  "short_name": "文字狂想",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "一个Java程序员的成长记录",
+  "description": "探索未知，畅想未来。敢于做梦、勇于试错！",
   "theme_color": "blue",
   "icons": [
     {
@@ -19,7 +19,7 @@
     }
 //    {
 //      "platform": "Java-essay",
-//      "url": "https://github.com/FireHH/Java-essay"
+//      "url": "https://github.com/qfmx/Java-essay"
 //    }
   ]
 }

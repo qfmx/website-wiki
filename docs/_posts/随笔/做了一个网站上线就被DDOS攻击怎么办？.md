@@ -8,8 +8,8 @@ categories:
 tags:
   - 
 author: 
-  name: Mr.Fire
-  link: https://gitee.com/firegitspace/java-essay.git
+  name: Xc.Jun
+  link: https://gitee.com/qfmx
 ---
 
 前不久，某音<前端盼哥>发布了个人的项目格子桌面，由于粉丝量比较多，热度还是比较大的，一大波程序员赶来凑热闹，网站内测阶段就遭到DDOS攻击，上线更是被狂刷CDN流量，

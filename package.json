@@ -1,17 +1,17 @@
 {
-  "name": "Java-essay",
+  "name": "Xc.Jun",
   "version": "1.0.0",
-  "description": "一个Java程序员的成长记录",
+  "description": "探索未知，畅想未来。敢于做梦、勇于试错！",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
-    "baiduPush": "node utils/baiduPush.js https://www.javaessay.cn && bash baiduPush.sh"
+    "baiduPush": "node utils/baiduPush.js https://blog.ifnb.cn && bash baiduPush.sh"
   },
   "keywords": [],
-  "author": "",
+  "author": "Xc.Jun",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "~7.7.7",
