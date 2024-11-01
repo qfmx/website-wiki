@@ -32,13 +32,13 @@ module.exports = {
     // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | <自定义>    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
     sidebar: 'structuring', 
     author: {
-      name: 'Xc.Jun', // 必需
+      name: 'Crystal-Aria', // 必需
       link: 'https://github.com/qfmx', // 可选的
     },
     // 博主信息 (显示在首页侧边栏)
     blogger: {
       avatar: '/img/huge.jpg',
-      name: 'Xc.Jun',
+      name: 'Crystal-Aria',
       slogan: '后端程序员一枚',
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
@@ -80,13 +80,13 @@ module.exports = {
     footer: {
       createYear: 2023, // 博客创建年份
       copyrightInfo:
-          'Xc.Jun | <a href="https://blog.ifnb.cn" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
+          'Crystal-Aria | <a href="https://blog.allms.cn" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
     },
 
     // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
     extendFrontmatter: {
       author: {
-        name: 'Xc.Jun',
+        name: 'Crystal-Aria',
         link: 'https://gitee.com/qfmx/'
       }
     },

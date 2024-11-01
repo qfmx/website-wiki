@@ -3,7 +3,7 @@
 #### 介绍
 一个基于Vuepress和Voding主题的开源的知识库兼博客，快速搭建个人网站，个人知识库，MD文档库，你也可以！我的网站主要是Java后端技术分享，Spring，SpringBoot，SpringCloud，高频面试题等。
 
-主站：<https://blog.ifnb.cn>
+主站：<https://blog.allms.cn>
 
 #### 软件架构
 软件架构说明
