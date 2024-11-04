@@ -1,6 +1,6 @@
 {
-  "name": "文字狂想",
-  "short_name": "文字狂想",
+  "name": "暖月寒星",
+  "short_name": "暖月寒星",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
@@ -8,7 +8,7 @@
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./img/logo.jpg",
+      "src": "./img/index.jpg",
       "sizes": "144x144",
       "type": "image/png"
     }
@@ -16,10 +16,10 @@
   "related_applications": [
     {
       "platform": "web"
+    },
+    {
+      "platform": "Java-wiki",
+      "url": "https://github.com/qfmx/website-wiki"
     }
-//    {
-//      "platform": "Java-essay",
-//      "url": "https://github.com/qfmx/Java-essay"
-//    }
   ]
 }

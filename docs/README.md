@@ -2,7 +2,7 @@
 home: true
 actionText: 开始 →
 actionLink: /archives/
-heroText: 文字狂想
+heroText: 暖月寒星
 tagline: 探索未知，畅想未来。敢于做梦、勇于试错！。
 features:
 - title: Java主流技术生态圈
