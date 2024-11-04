@@ -4,14 +4,14 @@ const dayjs = require("dayjs");
 
 module.exports = {
   base: "/",
-  title: '文字狂想',
+  title: '暖月寒星',
   // theme: require.resolve('../../theme/vdoing'),
   theme: 'vdoing',
   description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: "文字狂想",
+      title: "暖月寒星",
       description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
     }
   },
@@ -20,7 +20,7 @@ module.exports = {
     extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
   themeConfig: {
-    logo: '/img/logo.png',
+    logo: '/img/index.jpg',
     lastUpdated: '最后更新时间',
     smoothScroll: true, //页面滚动
     sidebarDepth:2, //侧边栏自动显示当前激活页面中标题的链接，嵌套在页面本身的链接下。默认深度是1，提取h2标题；0禁用标题链接；最大值为2，同时提取h2和h3。
@@ -37,17 +37,18 @@ module.exports = {
     },
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: '/img/huge.jpg',
+      avatar: '/img/index.jpg',
       name: 'Crystal-Aria',
       slogan: '后端程序员一枚',
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
-    // bodyBgImg: [
-    //   '/img/logo.jpg',
-    //   '/img/header.jpg',
-    // ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时隔bodyBgImgInterval切换一张。
-    // bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0.1~1.0, 默认0.5
-    // bodyBgImgInterval: 2, // body多张背景图时的切换间隔, 默认15，单位s
+    bodyBgImg: [
+      '/img/header.jpg',
+      '/img/header1.jpg',
+      '/img/header2.jpg',
+    ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时隔bodyBgImgInterval切换一张。
+    bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0.1~1.0, 默认0.5
+    bodyBgImgInterval: 2, // body多张背景图时的切换间隔, 默认15，单位s
 
     // 社交图标 (显示于博主信息栏和页脚栏。)
     social: {
@@ -96,12 +97,12 @@ module.exports = {
   },
   // 注入到页面<head>中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
   head: [
-    ['link', { rel: 'icon', href: '/img/logo.jpg' }], //favicons，资源放在public文件夹
+    ['link', { rel: 'icon', href: '/img/index.jpg' }], //favicons，资源放在public文件夹
     [
       'meta',
       {
         name: 'keywords',
-        content: '文字狂想',
+        content: '暖月寒星',
       },
     ],
     ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证（你可以去掉）
