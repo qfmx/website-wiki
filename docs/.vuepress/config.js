@@ -43,13 +43,13 @@ module.exports = {
       slogan: '后端程序员一枚',
     },
     categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
-    bodyBgImg: [
-      '/img/header.jpg',
-      '/img/header1.jpg',
-      '/img/header2.jpg',
-    ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时隔bodyBgImgInterval切换一张。
-    bodyBgImgOpacity: 0.8, // body背景图透明度，选值 0.1~1.0, 默认0.5
-    bodyBgImgInterval: 15, // body多张背景图时的切换间隔, 默认15，单位s
+    // bodyBgImg: [
+    //   '/img/header.jpg',
+    //   '/img/header1.jpg',
+    //   '/img/header2.jpg',
+    // ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时隔bodyBgImgInterval切换一张。
+    // bodyBgImgOpacity: 0.8, // body背景图透明度，选值 0.1~1.0, 默认0.5
+    // bodyBgImgInterval: 15, // body多张背景图时的切换间隔, 默认15，单位s
 
     // 社交图标 (显示于博主信息栏和页脚栏。)
     social: {
