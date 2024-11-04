@@ -8,6 +8,7 @@ module.exports = {
   // theme: require.resolve('../../theme/vdoing'),
   theme: 'vdoing',
   description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
+  dest: './dist', // 输出到项目根目录
   locales: {
     '/': {
       lang: 'zh-CN',
