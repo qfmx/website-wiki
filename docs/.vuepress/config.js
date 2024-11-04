@@ -57,7 +57,7 @@ module.exports = {
         {
           iconClass: 'icon-youjian',
           title: '发邮件',
-          link: 'mailto:xichujun@qq.com',
+          link: 'mailto:allms@qq.com',
         },
         {
           iconClass: 'icon-github',
