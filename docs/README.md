@@ -14,12 +14,4 @@ features:
   footer: Copyright © Crystal-Aria
 ---
 
-✨✨✨
-::: tip 学习三部曲
-每当我们接触一个新的技术时，我们都应该去思考的三个问题，是什么，怎么用，为什么这样设计，即what，how，why。
-从这三方面入手，当完成最后一步时，你已经对他非常熟悉了。 同样重要的一点，一定要do，think，notes。
-::: right
-来自 [Crystal-Aria](https://blog.allms.cn)
-:::
-
 
