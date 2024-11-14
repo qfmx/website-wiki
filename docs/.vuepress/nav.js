@@ -20,15 +20,15 @@ module.exports=[
             },
             {
                 text: '数据结构',
-                link: '/pages/65b7e2/',
+                link: '/pages/51bb42/',
             },
             {
                 text: '算法',
-                link: '/pages/c7f6c9/',
+                link: '/pages/69a7dd/',
             },
             {
-                text: '计算机网络',
-                link: '/pages/ff8bae/#tcp协议',
+                text: '网络',
+                link: '/pages/6d6401/',
             }
         ],
     },
