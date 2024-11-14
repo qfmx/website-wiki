@@ -19,16 +19,24 @@ module.exports=[
                 link: '/pages/2be000/',
             },
             {
-                text: 'Java你不知道的小事',
-                link: '/pages/java-small-story.md',
+                text: '数据结构',
+                link: '/pages/65b7e2/',
             },
+            {
+                text: '算法',
+                link: '/pages/c7f6c9/',
+            },
+            {
+                text: '计算机网络',
+                link: '/pages/ff8bae/#tcp协议',
+            }
         ],
     },
     {
         text: 'Spring',
         items: [
             {
-                text: 'Spring初识',
+                text: 'Spring基础',
                 link: '/pages/113e8b/',
             },
             {
@@ -54,7 +62,7 @@ module.exports=[
         text: '分布式微服务',
         items: [
             {
-                text: '什么是微服务',
+                text: '微服务理论',
                 link: '/pages/2f8402/',
             },
             {
@@ -72,7 +80,7 @@ module.exports=[
         ],
     },
     {
-        text: '中间件+云原生',
+        text: '中间件',
         items: [
             {
                 text: 'Zookeeper',
@@ -97,7 +105,7 @@ module.exports=[
         ]
     },
     {
-        text: '性能分析优化',
+        text: '性能优化',
         items: [
             {
                 text: '性能分析工具',
@@ -115,7 +123,7 @@ module.exports=[
         ]
     },
     {
-        text: '面试',
+        text: '面试比问',
         items: [
             {
                 text: 'Java基础面试必问',
@@ -168,8 +176,4 @@ module.exports=[
             },
         ],
     }
-    // {
-    //     text: 'Gitee',
-    //     link: 'https://gitee.com/qfmx',
-    // }
 ]
