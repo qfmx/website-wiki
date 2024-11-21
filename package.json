@@ -1,5 +1,5 @@
 {
-  "name": "Crystal-Aria",
+  "name": "xichu_v_v",
   "version": "1.0.0",
   "description": "探索未知，畅想未来。敢于做梦、勇于试错！",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "baiduPush": "node utils/baiduPush.js https://blog.allms.cn && bash baiduPush.sh"
   },
   "keywords": [],
-  "author": "Crystal-Aria",
+  "author": "xichu_v_v",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "~7.7.7",

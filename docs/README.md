@@ -11,7 +11,7 @@ features:
   details: SpringCloud，CloudAlibaba，Dubbo等主流微服务框架，设计高并发高可用架构。
 - title: 技术人成长进阶路线
   details: 以技术为基石，思维升级，提高技术修养，进阶架构，项目管理。
-  footer: Copyright © Crystal-Aria
+  footer: Copyright © xichu_v_v
 ---
 
 
