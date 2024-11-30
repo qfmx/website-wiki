@@ -70,13 +70,17 @@ module.exports=[
                 link: '/pages/59a2b4/',
             },
             {
-                text: 'Dubbo',
-                link: '/pages/dubbo-alibaba.md',
+                text: 'SpringCloud Alibaba',
+                link: '/pages/1c063e/',
             },
             {
-                text: 'SpringCloud Alibaba',
-                link: '/pages/spring-cloud-alibaba.md',
-            }
+                text: '分布式锁',
+                link: '/pages/aaf9b7/',
+            },
+            {
+                text: 'Dubbo',
+                link: '/pages/2sdf9b7/',
+            },
         ],
     },
     {
@@ -138,11 +142,11 @@ module.exports=[
             },
             {
                 text :'Spring面试必问',
-                link :'/pages/95d19c'
+                link :'/pages/95d19c/'
             },
             {
                 text :'Java框架面试必问',
-                link :'/pages/11109c'
+                link :'/pages/11109c/'
             },
             {
                 text :'数据库面试必问',
@@ -154,7 +158,7 @@ module.exports=[
             },
             {
                 text :'分布式微服务面试必问',
-                link :'/pages/3dd92a'
+                link :'/pages/3dd92a/'
             },
             // {
             //     text :'Linux面试必问',
