@@ -8,7 +8,7 @@ module.exports=[
         items: [
             {
                 text: 'Java基础',
-                link: '/pages/c41b1f/',
+                link: '/pages/95d3a7/',
             },
             {
                 text: 'Java进阶',
@@ -87,10 +87,6 @@ module.exports=[
                 link: '/pages/09fbd0/',
             },
             {
-                text: 'Nginx',
-                link: '',
-            },
-            {
                 text: 'RabbitMQ',
                 link: '/pages/08d72f/',
             },
@@ -99,9 +95,17 @@ module.exports=[
                 link: '/pages/25443e/',
             },
             {
-                text: 'Docker入门到精通',
-                link: '/pages/1e77b5/'
-            }
+                text: 'Docker',
+                link: '/pages/1e77b5/',
+            },
+            {
+                text: 'Nginx',
+                link: '/pages/d54243e/',
+            },
+            {
+                text: 'ClickHouse',
+                link: '/pages/dcs343e/',
+            },
         ]
     },
     {
@@ -119,7 +123,10 @@ module.exports=[
                 text: '性能优化',
                 link: '/pages/4b3850/'
             },
-            
+            {
+                text: 'JVM',
+                link: '/pages/184a1d/'
+            },
         ]
     },
     {
