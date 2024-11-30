@@ -137,37 +137,45 @@ module.exports=[
                 link: '/pages/3d1eb9/',
             },
             {
-                text :'JavaWeb面试必问',
-                link :'/pages/98558b/'
+                text :'Spring面试必问',
+                link :'/pages/95d19c'
             },
             {
                 text :'Java框架面试必问',
-                link :''
+                link :'/pages/11109c'
             },
             {
                 text :'数据库面试必问',
-                link :''
+                link :'/pages/ad4920/'
             },
             {
-                text :'中间件面试必问',
-                link :''
+                text: '计算机网络',
+                link: '/pages/e0edc5/',
             },
             {
                 text :'分布式微服务面试必问',
-                link :'/pages/06bd99'
+                link :'/pages/3dd92a'
             },
-            {
-                text :'Linux面试必问',
-                link :''
-            },
-            {
-                text: '计算机网络面试必问',
-                link: '/pages/cc54d6/',
-            },
-            {
-                text :'开放性问题面试问必问',
-                link :''
-            },
+            // {
+            //     text :'Linux面试必问',
+            //     link :''
+            // },
+            // {
+            //     text :'Java框架面试必问',
+            //     link :''
+            // },
+            // {
+            //     text :'数据库面试必问',
+            //     link :''
+            // },
+            // {
+            //     text :'中间件面试必问',
+            //     link :''
+            // },
+            // {
+            //     text :'开放性问题面试问必问',
+            //     link :''
+            // },
         ],
     },
     {
