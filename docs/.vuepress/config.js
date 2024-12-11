@@ -4,7 +4,7 @@ const dayjs = require("dayjs");
 
 module.exports = {
     base: "/",
-    title: '暖月寒星',
+    title: '浅枫沐雪',
     // theme: require.resolve('../../theme/vdoing'),
     theme: 'vdoing',
     description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
@@ -12,7 +12,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'zh-CN',
-            title: "暖月寒星",
+            title: "浅枫沐雪",
             description: '后端技术网站,专注Java学习与总结，面试。Java基础，Spring,SpringBoot,SpringCloud,SpringCloudAlibaba,数据库设计,中间件,性能优化,开源技术等技术文章。',
         }
     },
@@ -33,13 +33,13 @@ module.exports = {
         // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | <自定义>    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
         sidebar: 'structuring',
         author: {
-            name: 'xichu_v_v', // 必需
+            name: '溪初', // 必需
             link: 'https://github.com/qfmx', // 可选的
         },
         // 博主信息 (显示在首页侧边栏)
         blogger: {
             avatar: '/img/index.jpg',
-            name: 'xichu_v_v',
+            name: '溪初',
             slogan: '后端程序员一枚',
         },
         categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
@@ -82,13 +82,13 @@ module.exports = {
         footer: {
             createYear: 2020, // 博客创建年份
             copyrightInfo:
-                'xichu_v_v | <a href="https://blog.allms.cn" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
+                '溪初 | <a href="https://blog.allms.cn" target="_blank">MIT License</a>', // 博客版权信息，支持a标签或换行标签</br>
         },
 
         // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
         extendFrontmatter: {
             author: {
-                name: 'xichu_v_v',
+                name: '溪初',
                 link: 'https://gitee.com/qfmx/'
             }
         },
@@ -103,7 +103,7 @@ module.exports = {
             'meta',
             {
                 name: 'keywords',
-                content: '暖月寒星',
+                content: '浅枫沐雪',
             },
         ],
         ['meta', {name: 'baidu-site-verification', content: '7F55weZDDc'}], // 百度统计的站长验证（你可以去掉）

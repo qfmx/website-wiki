@@ -2,8 +2,8 @@
 home: true
 actionText: 开始 →
 actionLink: /archives/
-heroText: 暖月寒星
-tagline: 月下冬暖，星光渐寒，暖月寒星。
+heroText: 浅枫沐雪
+tagline: 雪落枫林一片红，寒风摇曳梦悠悠。
 features:
 - title: Java技艺与企业脉络
   details: 沉浸于Java的经典与现代，领略Spring、MyBatis、Spring Boot的奥妙，磨砺开发与面试的锋芒。
